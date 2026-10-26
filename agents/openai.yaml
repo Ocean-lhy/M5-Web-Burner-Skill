@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Burner 固件分享"
+  short_description: "v0.3 — 登录 burner.m5stack.com，上传新固件、更新版本/描述、查看下载与点赞统计。"
+  default_prompt: "Use $webburner to log in to M5Stack Web Burner with the browser Bearer token, look up my firmware projects, show download/like stats, and upload a new firmware or a new version safely (dry-run first, confirm the resolved fields, never create duplicate versions)."
